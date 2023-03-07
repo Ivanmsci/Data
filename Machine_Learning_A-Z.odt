@@ -4,7 +4,7 @@
  <office:meta><dc:date>2023-03-06T10:38:50.467639931</dc:date><meta:editing-duration>PT3H42M59S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="11" meta:object-count="0" meta:page-count="6" meta:paragraph-count="42" meta:word-count="1422" meta:character-count="8095" meta:non-whitespace-character-count="6700"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">31644</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">26153</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">22699</config:config-item>
@@ -14,11 +14,11 @@
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
      <config:config-item config:name="ViewLeft" config:type="long">4281</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">160255</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">31644</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">26151</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">54342</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">22698</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -88,7 +88,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3372801</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3412058</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -152,7 +152,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="es" fo:country="MX" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -340,22 +340,19 @@
   <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="002715d2" officeooo:paragraph-rsid="002715d2"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:text-position="0% 100%" fo:font-weight="normal" officeooo:rsid="00318c94" officeooo:paragraph-rsid="0032589a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:text-position="0% 100%" fo:font-weight="bold" officeooo:rsid="00318c94" officeooo:paragraph-rsid="00318c94" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties fo:font-weight="normal" officeooo:rsid="002159a8" officeooo:paragraph-rsid="002159a8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1" style:master-page-name="">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="-0.25in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
    <style:text-properties fo:font-weight="normal" officeooo:rsid="002159a8" officeooo:paragraph-rsid="002159a8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="0030d477" officeooo:paragraph-rsid="0030d477" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:text-position="0% 100%" fo:font-weight="normal" officeooo:rsid="00318c94" officeooo:paragraph-rsid="0032589a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:text-position="0% 100%" fo:font-weight="bold" officeooo:rsid="00318c94" officeooo:paragraph-rsid="00318c94" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0013750c"/>
@@ -4074,10 +4071,10 @@
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4"><text:soft-page-break/></text:p>
    <text:p text:style-name="P5">Part 2</text:p>
-   <text:list xml:id="list2960918024" text:style-name="L1">
+   <text:list xml:id="list2561506124" text:style-name="L1">
     <text:list-header>
-     <text:p text:style-name="P27"/>
-     <text:p text:style-name="P28">una de las formas que se tienen para predecir valores a partir de observaciones acutales, es lo que se conoce como regresion lineal, la cual en terminos generales esta basada en la ecuación de una recta</text:p>
+     <text:p text:style-name="P29"/>
+     <text:p text:style-name="P30">una de las formas que se tienen para predecir valores a partir de observaciones acutales, es lo que se conoce como regresion lineal, la cual en terminos generales esta basada en la ecuación de una recta</text:p>
     </text:list-header>
    </text:list>
    <text:p text:style-name="P14"/>
@@ -21116,10 +21113,10 @@
    <text:p text:style-name="P8"/>
    <text:p text:style-name="P23">aunque parezca contraintuitivo, la regresión polinomial es un tipo de regresión linea, ya que, aunque no exista una relación lineal entre las variables, si que la hay entre los coeficientes.</text:p>
    <text:p text:style-name="P23"/>
-   <text:p text:style-name="P31">Part 9- Support vector regression <text:span text:style-name="T9">(lienar and non linear)</text:span></text:p>
-   <text:p text:style-name="P31"/>
-   <text:p text:style-name="P30">este tipo de regressión es similar a la regresion lineal, sin emabrgo, en vez de solo tomarse como una linea recta que trata de ajustarse a los datos, en este caso se tiene lo que se podría llamar un “tubo” con una recta central, el ancho del tubo con respecto a dicha linea, esta dado por epsilon y todos los datos que caigan dentro de esta zona <text:span text:style-name="T9">(insensitive tube) </text:span>, no son condsidreados para el error del modelo, es decir, estamos tolerando un cierto error de antemano. <text:span text:style-name="T9">Sin emabargo, aquellos que caen fuera del tubo son lo que son tomados en cuanta para, de manera similar a la regresión lineal, llevar a cabo una reducción de cuadrados tal que el error o distancia entre los datos que quedan fuera y el inicion del “inensitive tube” sea la minima. </text:span></text:p>
-   <text:p text:style-name="P30"><draw:frame draw:style-name="fr1" draw:name="Image11" text:anchor-type="char" svg:width="5.7717in" svg:height="3.0547in" draw:z-index="10"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P28">Part 9- Support vector regression <text:span text:style-name="T9">(lienar and non linear)</text:span></text:p>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P27">este tipo de regressión es similar a la regresion lineal, sin emabrgo, en vez de solo tomarse como una linea recta que trata de ajustarse a los datos, en este caso se tiene lo que se podría llamar un “tubo” con una recta central, el ancho del tubo con respecto a dicha linea, esta dado por epsilon y todos los datos que caigan dentro de esta zona <text:span text:style-name="T9">(insensitive tube) </text:span>, no son condsidreados para el error del modelo, es decir, estamos tolerando un cierto error de antemano. <text:span text:style-name="T9">Sin emabargo, aquellos que caen fuera del tubo son lo que son tomados en cuanta para, de manera similar a la regresión lineal, llevar a cabo una reducción de cuadrados tal que el error o distancia entre los datos que quedan fuera y el inicion del “inensitive tube” sea la minima. </text:span></text:p>
+   <text:p text:style-name="P27"><draw:frame draw:style-name="fr1" draw:name="Image11" text:anchor-type="char" svg:width="5.7717in" svg:height="3.0547in" draw:z-index="10"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA6sAAAHxCAYAAACLaCo9AAF8TElEQVR4nOydB2Bb1dmG36st
        S/Ledoaz92LvXfaGMltKW1oos5QyuktpS9u/QCm00ELZe++9V4BABiSE7L0cJ/EeGvc/75Gu
        kRXJlredfE8r7MjS1bnnXp1z3m8dh6mAIAiCIAiCIAiCIPQSluzkz/hHJBLZ7hEOh/XD0c9t
